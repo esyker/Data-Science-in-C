@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1495741772 source:/home/diogo/Desktop/bikestation/bikestation.3/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"trips.h"
+	"menu.h"
+
+1495741855 source:/home/diogo/Desktop/bikestation/bikestation.3/stations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"stations.h"
+
+1495740983 /home/diogo/Desktop/bikestation/bikestation.3/trips.h
+	<string.h>
+	<math.h>
+	"stations.h"
+
+1495736347 /home/diogo/Desktop/bikestation/bikestation.3/stations.h
+	"trips.h"
+
+1495742105 source:/home/diogo/Desktop/bikestation/bikestation.3/trips.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"stations.h"
+
+1495742633 source:/home/diogo/Desktop/bikestation/bikestation.3/menu.c
+	<stdio.h>
+	<stdlib.h>
+	"trips.h"
+	"menu.h"
+
+1495740984 /home/diogo/Desktop/bikestation/bikestation.3/menu.h
+
+1495750039 source:/home/diogo/Desktop/bikestation.3/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"trips.h"
+	"menu.h"
+	"parte_grafica.h"
+
+1495740983 /home/diogo/Desktop/bikestation.3/trips.h
+	<string.h>
+	<math.h>
+	"stations.h"
+
+1495750062 /home/diogo/Desktop/bikestation.3/stations.h
+	"trips.h"
+
+1495740984 /home/diogo/Desktop/bikestation.3/menu.h
+
+1495749892 source:/home/diogo/Desktop/bikestation.3/menu.c
+	<stdio.h>
+	<stdlib.h>
+	"trips.h"
+	"menu.h"
+
+1495750062 source:/home/diogo/Desktop/bikestation.3/stations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"stations.h"
+
+1495742105 source:/home/diogo/Desktop/bikestation.3/trips.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trips.h"
+	"stations.h"
+
+1495749642 source:/home/diogo/Desktop/bikestation.3/parte_grafica.c
+	"parte_grafica.h"
+
+1495749357 /home/diogo/Desktop/bikestation.3/parte_grafica.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	"trips.h"
+
